@@ -2,7 +2,7 @@
 
 👨‍💻 **About me**:
 - 🎯 I am an **aspiring developer** and am currently mastering **fullstack**.
-- 🚀 I am currently learning **Java**, **JavaScript**, **React**, **Node.js**.
+- 🚀 I am currently learning **Java**, **JavaScript**.
 - 🎓 I graduated from college with a degree in generalist information technology, but have not yet decided what I want to be in the future.
 - 📖 Always ready to learn new technologies in my IT specialization.
 
