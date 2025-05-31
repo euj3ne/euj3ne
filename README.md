@@ -20,4 +20,3 @@
 📫 **How to reach me**:
 - Telegram: [@euj3ne](https://t.me/euj3ne)
 - VKontakte: [@euj3ne](https://vk.me/euj3ne)
-- Site: [euj3ne.ru](https://euj3ne.ru)
