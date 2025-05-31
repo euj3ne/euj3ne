@@ -11,7 +11,7 @@
 - 📊 **Languages (superficial knowledge)**: `Python (abandoned)`, `Java` and few other.
 - 🧱 **Languages markup and style**: `HTML`, `CSS`.
 - 🎨 **Tools Languages markup and style**: `Bootstrap`.
-- 🧩 **Tools Languages (want learn): `Node.JS`, `React`, `TypeScript`, `Next.JS`, `Laravel`, `Spring` and some others by their stack requirement.
+- 🧩 **Tools Languages (want learn)**: `Node.JS`, `React`, `TypeScript`, `Next.JS`, `Laravel`, `Spring` and some others by their stack requirement.
 - 🔧 **Build Tools**: `Maven`.
 - 🗄️ **Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `SQLite`.
 - 🛠️ **Dev-Ops**: `Linux Server`, `Bash`, `Shell`, `Windows Server`.
