@@ -1,7 +1,7 @@
 # Hi there, I'm Evgeny 👋
 
 👨‍💻 **About me**:
-- 🎯 I am an **aspiring developer** and am currently mastering **fullstack**.
+- 🎯 I am an **aspiring developer** and am currently mastering **fullstack**, as well as an advanced **system** and **network administrator**.
 - 🚀 I am currently learning **Java**, **JavaScript**.
 - 🎓 I graduated from college with a degree in generalist information technology, but have not yet decided what I want to be in the future.
 - 📖 Always ready to learn new technologies in my IT specialization.
@@ -15,6 +15,7 @@
 - 🔧 **Build Tools**: `Maven`.
 - 🗄️ **Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `SQLite`.
 - 🛠️ **Dev-Ops**: `Linux Server`, `Bash`, `Shell`, `Windows Server`.
+- 🛠️ **IT Infrastructure**: `Hardware Full`, `Software Full`, `Networking`, `Cloud Infrastructure`, `Security & Access`, `Support & Operation`.
 - ⛏️ **Minecraft**: `Bukkit`, `Spigot (Paper)`, `Velocity`.
 
 📫 **How to reach me**:
