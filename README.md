@@ -7,11 +7,11 @@
 - 📖 Always ready to learn new technologies in my IT specialization.
 
 🗺️ **My knowledges**:
-- 📈 **Languages (learning)**: `Java`, `JavaScript`, `PHP` and some others by their stack requirement.
+- 📈 **Languages (learning)**: `Java`, `JavaScript`, and some others by their stack requirement.
 - 📊 **Languages (superficial knowledge)**: `Python (abandoned)`, `Java` and few other.
 - 🧱 **Languages markup and style**: `HTML`, `CSS`.
 - 🎨 **Tools Languages markup and style**: `Bootstrap`.
-- 🧩 **Tools Languages (want learn)**: `Node.JS`, `React`, `TypeScript`, `Next.JS`, `Laravel`, `Spring` and some others by their stack requirement.
+- 🧩 **Tools Languages (want learn)**: `Node.JS`, `Vue.JS`, `TypeScript`, `Nuxt.JS`, `Laravel`, `Spring` and some others by their stack requirement.
 - 🔧 **Build Tools**: `Maven`.
 - 🗄️ **Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `SQLite`.
 - 🛠️ **Dev-Ops**: `Linux Server`, `Bash`, `Shell`, `Windows Server`.
