@@ -2,21 +2,20 @@
 
 👨‍💻 **About me**:
 - 🎯 I am an **aspiring developer** and am currently mastering **fullstack**, as well as an advanced **system** and **network administrator**.
-- 🚀 I am currently learning **Java**, **JavaScript**.
 - 🎓 I graduated from college with a degree in generalist information technology, but have not yet decided what I want to be in the future.
 - 📖 Always ready to learn new technologies in my IT specialization.
 
 🗺️ **My knowledges**:
-- 📈 **Languages (learning)**: `Java`, `JavaScript`, and some others by their stack requirement.
-- 📊 **Languages (superficial knowledge)**: `Python (abandoned)`, `Java` and few other.
-- 🧱 **Languages markup and style**: `HTML`, `CSS`.
-- 🎨 **Tools Languages markup and style**: `Bootstrap`.
-- 🧩 **Tools Languages (want learn)**: `Node.JS`, `Vue.JS`, `TypeScript`, `Nuxt.JS`, `Laravel`, `Spring`, `NestJS` and some others by their stack requirement.
+- 📈 **Frontend (learning)**: `JavaScript`, `Vue.JS`, `Nuxt.JS`, `TypeScript` and some others by their stack requirement.
+- 🧩 **Frontend (want to learn)**: `React` and some others by their stack requirement.
+- 📈 **Backend (learning)**: `Java`, `Spring Boot` and some others by their stack requirement.
+- 🧱 **Markup and Style**: `HTML`, `CSS`.
 - 🔧 **Build Tools**: `Maven`.
 - 🗄️ **Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `SQLite`.
-- 🛠️ **Dev-Ops**: `Linux Server`, `Bash`, `Shell`, `Windows Server`.
-- 🛠️ **IT Infrastructure**: `Hardware Full`, `Software Full`, `Networking`, `Cloud Infrastructure`, `Security & Access`, `Support & Operation`.
-- ⛏️ **Minecraft**: `Bukkit`, `Spigot (Paper)`, `Velocity`.
+- 🛠️ **Systems**: `Linux Server`, `Windows Server`.
+- 📈 **DevOps (learning)**: `Git`, `GitHub Actions`, `Docker`, `Docker Compose`, `Kubernetes`, `Prometheus`.
+- 🛠️ **IT Infrastructure**: `Hardware`, `Software`, `Networking`, `Cloud Infrastructure`, `Security & Access`, `Support & Operations`.
+- ⛏️ **Minecraft**: `Bukkit`, `Spigot (Paper, Purpur, ASP)`, `Velocity`.
 
 📫 **How to reach me**:
 - Telegram: [@euj3ne](https://t.me/euj3ne)
